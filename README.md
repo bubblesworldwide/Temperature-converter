@@ -1,4 +1,4 @@
-# Temperature-converter
+# Temperature-converter (Windows application)
 Convert temperature to fahrenheit / celsius
 
 
